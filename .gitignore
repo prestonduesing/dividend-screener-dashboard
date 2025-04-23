@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments and secrets
+.env
+
+# Data files
+data/*.csv
+data/*.xlsx
+
+# VSCode settings (optional)
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
